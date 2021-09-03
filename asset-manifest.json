@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-TaskMonitoring-app/static/css/main.aeb015fc.chunk.css",
+    "main.js": "/my-TaskMonitoring-app/static/js/main.dcdad447.chunk.js",
+    "main.js.map": "/my-TaskMonitoring-app/static/js/main.dcdad447.chunk.js.map",
+    "runtime-main.js": "/my-TaskMonitoring-app/static/js/runtime-main.5d23a709.js",
+    "runtime-main.js.map": "/my-TaskMonitoring-app/static/js/runtime-main.5d23a709.js.map",
+    "static/css/2.1dd069c0.chunk.css": "/my-TaskMonitoring-app/static/css/2.1dd069c0.chunk.css",
+    "static/js/2.fb79c342.chunk.js": "/my-TaskMonitoring-app/static/js/2.fb79c342.chunk.js",
+    "static/js/2.fb79c342.chunk.js.map": "/my-TaskMonitoring-app/static/js/2.fb79c342.chunk.js.map",
+    "static/js/3.fab75416.chunk.js": "/my-TaskMonitoring-app/static/js/3.fab75416.chunk.js",
+    "static/js/3.fab75416.chunk.js.map": "/my-TaskMonitoring-app/static/js/3.fab75416.chunk.js.map",
+    "index.html": "/my-TaskMonitoring-app/index.html",
+    "static/css/2.1dd069c0.chunk.css.map": "/my-TaskMonitoring-app/static/css/2.1dd069c0.chunk.css.map",
+    "static/css/main.aeb015fc.chunk.css.map": "/my-TaskMonitoring-app/static/css/main.aeb015fc.chunk.css.map",
+    "static/js/2.fb79c342.chunk.js.LICENSE.txt": "/my-TaskMonitoring-app/static/js/2.fb79c342.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d23a709.js",
+    "static/css/2.1dd069c0.chunk.css",
+    "static/js/2.fb79c342.chunk.js",
+    "static/css/main.aeb015fc.chunk.css",
+    "static/js/main.dcdad447.chunk.js"
+  ]
+}
